@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="en">
+  
+<!-- Mirrored from themes.potenzaglobalsolutions.com/html/Rextrades Associates/cookies.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 10 Dec 2022 19:00:23 GMT -->
+<head>
+    <meta charset="utf-8">
+    <meta name="keywords" content="HTML5 Template" />
+    <meta name="description" content="Rextrades Associates - Business and Finance HTML5 Template" />
+    <meta name="author" content="potenzaglobalsolutions.com" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Rextrades Associates - Business and Finance HTML5 Template</title>
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="images/favicon.ico" />
+
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css?family=Heebo:400,500,700%7CMontserrat:500,700&amp;display=swap" rel="stylesheet">
+
+    <!-- CSS Global Compulsory (Do not remove)-->
+    <link rel="stylesheet" href="css/font-awesome/all.min.css" />
+    <link rel="stylesheet" href="css/flaticon/flaticon.css" />
+    <link rel="stylesheet" href="css/bootstrap/bootstrap.min.css" />
+
+    <!-- Template Style -->
+    <link rel="stylesheet" href="css/style.css" />
+    
+    <link rel="stylesheet" type="text/css" href="spop-0.1.3/dist/spop.css">
+    <script src="spop-0.1.3/dist/spop.js"></script>
+    
+    <!-- GetButton.io widget -->
+<script type="text/javascript">
+    (function () {
+        var options = {
+            whatsapp: "+447554596017", // WhatsApp number
+            call_to_action: "Message us", // Call to action
+            button_color: "#FF6550", // Color of button
+            position: "left", // Position may be 'right' or 'left'
+        };
+        var proto = 'https:', host = "getbutton.io", url = proto + '//static.' + host;
+        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';
+        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };
+        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+    })();
+</script>
+<!-- /GetButton.io widget -->
+
+  </head>
+  <body>
+
+    <!--=================================
+    Header -->
+    <header class="header header-sticky default">
+      <div class="topbar">
+        <div class="container">
+          <div class="topbar-inner">
+            <div class="row">
+              <div class="col-12">
+                <div class="d-block d-md-flex align-items-center text-center">
+                  <div class="me-3 d-inline-block">
+                    <a href="mailto:info@rextrade-associates.com"><i class="fas fa-envelope me-2 fa-flip-horizontal"></i>info@rextrade-associates.com</a>
+                  </div>
+                  <div class="me-auto d-inline-block">
+                    <a href="tel:+447554596017"><i class="fa fa-phone me-2 fa fa-flip-horizontal"></i>+447554596017</a>
+                  </div>
+                  <div class="social d-inline-block">
+                    <!--<ul class="list-unstyled">-->
+                    <!--  <li><a href="#"> <i class="fab fa-facebook-f"></i> </a></li>-->
+                    <!--  <li><a href="#"> <i class="fab fa-twitter"></i> </a></li>-->
+                    <!--  <li><a href="#"> <i class="fab fa-pinterest-p"></i> </a></li>-->
+                    <!--  <li><a href="#"> <i class="fab fa-linkedin-in"></i> </a></li>-->
+                    <!--</ul>-->
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <nav class="navbar navbar-static-top navbar-expand-xl">
+        <div class="container position-relative">
+          <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target=".navbar-collapse"><i class="fas fa-align-left"></i></button>
+          <a class="navbar-brand" href="index.html">
+            <img class="img-fluid" src="images/logo.png" alt="logo">
+          </a>
+          <div class="navbar-collapse collapse justify-content-center">
+            <ul class="nav navbar-nav">
+                <li class="nav-item dropdown active">
+                  <a class="nav-link" href="index.html">Home</a>
+                 
+                </li>
+               
+                
+                <li class="dropdown nav-item">
+                  <a class="nav-link" href="javascript:void(0)" data-bs-toggle="dropdown">Company<i class="fas fa-chevron-down fa-xs"></i></a>
+                  <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                   
+                     
+                      <li><a class="dropdown-item" href="about-us.html"><span>About us</span></a></li>
+                         
+                            <li><a class="dropdown-item" href="our-partners.html"><span>Our Partners</span></a></li>
+                        
+                         
+                            <li><a class="dropdown-item" href="faqs.html"><span>FAQs</span></a></li>
+                             <li><a class="dropdown-item" href="privacy-policy.html"><span>Privacy Policy</span></a></li>
+                  </ul>
+                </li>
+                
+                
+                   <li class="dropdown nav-item">
+                  <a class="nav-link" href="javascript:void(0)" data-bs-toggle="dropdown">Investment Plans<i class="fas fa-chevron-down fa-xs"></i></a>
+                  <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                   
+                     
+                    
+                            <li><a class="dropdown-item" href="appointment.html"><span>Plans</span></a></li>
+                              <li><a class="dropdown-item" href="affliate.html"><span>Affliate</span></a></li>
+                         
+                  </ul>
+                </li>
+                
+                  <li class="nav-item dropdown">
+                  <a class="nav-link" href="https://app.rextrade-associates.com/login">Login</a>
+                 
+                </li>
+                  <li class="nav-item dropdown">
+                  <a class="nav-link" href="https://app.rextrade-associates.com/register">Register</a>
+                 
+                </li>
+                
+                
+                  <li class="nav-item dropdown">
+                  <a class="nav-link" href="insights.html">Insights</a>
+                 
+                </li>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+               
+              <li class="nav-item dropdown">
+                  <a class="nav-link" href="contact-us.html">Contact Us</a>
+                 
+                </li>
+           
+             
+              </ul>
+          </div>
+          <a class="btn btn-primary btn-md me-5 me-xl-0 d-none d-sm-block" href="insights.html?a=home#"> Rextrades Associates </a>
+        </div>
+      </nav>
+    </header>
+    <!--=================================
+    Header -->
+
+  <!--=================================
+    Inner Header -->
+    <div class="inner-header bg-light">
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col-sm-6 text-center text-sm-start mb-2 mb-sm-0">
+            <h1 class="breadcrumb-title mb-0">INSIGHTS</h1>
+          </div>
+          <div class="col-sm-6">
+            <ol class="breadcrumb d-flex justify-content-center justify-content-sm-end ms-auto">
+              <li class="breadcrumb-item"><a href="insights.html?a=home"><i class="fas fa-home me-1"></i>Home</a></li>
+              <li class="breadcrumb-item active"><span>INSIGHTS</span></li>
+            </ol>
+          </div>
+        </div>
+      </div>
+    </div>
+  <!--=================================
+  Inner Header -->
+
+  <!--=================================
+  Cookies -->
+  <section class="space-ptb">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 mb-4 mb-md-5">
+          <h5>Profitability</h5>
+          <p class="mb-0">Our research analysts are industry sector specialists, who draw on our proprietary risk management technology, a highly skilled trading desk and four decades of industryleading investment expertise to gain a deep understanding of securities across the globe and capital structure. rextrade associates is run for the benefit of its clients Our firm’s profitability must stem from doing all of the above.rextrade associates is run for the benefit of its clients and their constituencies as well as for its owners and employees. Profit without performance, bigness for its own sake and prosperity through cost cutting are all explicitly rejected. Our earnings should grow if we achieve excellence in investing... but only then.Our goal is excellence in investing. To us, this means achieving attractive returns without commensurate risk, an imbalance which can only be achieved in markets that are not "efficient." Although we strive for superior returns, our first priority is that our actions produce consistency, protection of capital, and superior performance in bad times.</p>
+        </div>
+        <div class="col-md-12 mb-4 mb-md-5">
+          <h5>INSIGHTS</h5>
+          <p>Our earnings should grow if we achieve excellence in investing... but only then.Our goal is excellence in investing. To us, this means achieving attractive returns without commensurate risk, an imbalance which can only be achieved in markets that are not "efficient." Although we strive for superior returns, our first priority is that our actions produce consistency, protection of capital, and superior performance in bad times.</p>
+        </div>
+        <div class="col-md-12 mb-4 mb-md-5">
+          <h5>How do we invest?</h5>
+          <p class="mb-0">We believe that systematic mistakes by investors, combined with structural and temporal features of markets, create security mispricings. Extensive empirical evidence supports this belief. Our disciplined and systematic process exploits these mispricings, seeking to build high risk-adjusted return portfolios for our clients.rextrade associates also recognizes that markets are adaptive, that investment strategies go in and out of favor, and risk/reward relationships change over time. We acknowledge the importance of recognizing shifts in the market environment and knowing the value of different pieces of information at different points in time across global markets. We also know that, at times, even the most sophisticated stock selection attributes will converge towards temporary macro risk trends. Managing these risks is paramount to the long-term success of any given strategy.rextrade associates has long believed that environmental, social, and governance (ESG) considerations go hand-in-hand with traditional investment issues, having implemented ESG criteria into our investment process.
+  
+      </div>
+    </div>
+  </section>
+  <!--=================================
+  Cookies -->
+
+
+
+ <!--=================================
+  Footer -->
+  <footer class="space-pt footer bg-dark">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4">
+          <div class="footer-contact-address">
+            <h6 class="text-white mb-4">Where To Find Us </h6>
+            <ul class="list-unstyled">
+              <li>
+                <i class="fas fa-map-signs mt-2"></i>
+                <div class="address-info">
+                  <h6>Harmile House, 54 St Mary's Lane, </h6>
+                  <p>Upminster, Essex, RM14 2QT</p>
+                </div>
+              </li>
+              <li>
+                <i class="far fa-envelope mt-2"></i>
+                <div class="address-info">
+                  <h6>info@rextrade-associates.com </h6>
+                  <p>Mon-Fri 8:30am-6:30pm </p>
+                </div>
+              </li>
+              <li>
+                <i class="fas fa-headphones-alt mt-2"></i>
+                <div class="address-info">
+                  <h6>+447554596017</h6>
+                  <p>24 X 7 online support </p>
+                </div>
+              </li>
+            </ul>
+          </div>
+        
+        </div>
+        <div class="col-md-8  mt-4 mt-md-0">
+        
+        
+          <div class="footer-link">
+            <div class="row">
+              <div class="col-sm-4 mt-4 mt-md-5">
+                <h6 class="text-white">Discover</h6>
+                <ul class="list-unstyled">
+                  <li><a href="insights.html?a=home#"><span>About us</span></a></li>
+                  <li><a href="insights.html?a=home#"><span>Contact us</span></a></li>
+                  <li><a href="insights.html?a=home#">Cookies policy</a></li>
+                </ul>
+              </div>
+              <div class="col-sm-8 mt-4 mt-md-5">
+                <h6 class="text-white">Services</h6>
+                <div class="row">
+                  <div class="col-sm-6">
+                    <ul class="list-unstyled">
+                      <li><a href="insights.html?a=home#"><span>Accounting Outsourcing</span></a></li>
+                      <li><a href="insights.html?a=home#"><span>Acquisitions Consulting</span></a></li>
+                      <li><a href="insights.html?a=home#"><span>Financial Planning</span></a></li>
+                    </ul>
+                  </div>
+                  <div class="col-sm-6">
+                    <ul class="list-unstyled">
+                      <li><a href="insights.html?a=home#">Investment Management</a></li>
+                      <li><a href="insights.html?a=home#"><span>Payroll Outsourcing</span></a></li>
+                      <li><a href="insights.html?a=home#"><span>Taxation Advisory</span></a></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6">
+            <p class="mb-0 text-white"> &copy; Copyright <span id="copyright"> <script>document.getElementById('copyright').appendChild(document.createTextNode(new Date().getFullYear()))</script></span> <a href="index.html"> Rextrade Associates </a> All Rights Reserved </p>
+          </div>
+       
+        </div>
+      </div>
+    </div>
+  </footer>
+  <!--=================================
+  Footer -->
+
+  <!--=================================
+  Back To Top -->
+  <div id="back-to-top" class="back-to-top">
+    <a href="insights.html?a=home#"><i class="fas fa-angle-up"></i> </a>
+  </div>
+  <!--=================================
+  Back To Top -->
+
+  <!--=================================
+  Javascript -->
+
+  <!-- JS Global Compulsory (Do not remove)-->
+  <script src="js/jquery-3.6.0.min.js"></script>
+  <script src="js/popper/popper.min.js"></script>
+  <script src="js/bootstrap/bootstrap.min.js"></script>
+  
+  <!--live chat-->
+<script src="http://code.tidio.co/0ztfajr5v6dvf9aihppunoeeqwxtbseq.js" async></script>
+<!--liv end-->
+
+  <!-- Template Scripts (Do not remove)-->
+  <script src="js/custom.js"></script>
+
+<script type="text/javascript">
+var country_list = ["Afghanistan", "Albania", "Algeria", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda", "Argentina", "Armenia", "Australia", "Austria", "Azerbaijan", "Bahamas", "Bahrain", "Bangladesh", "Belarus", "Belgium",  "Benin", "Bermuda", "Bhutan", "Bolivia", "Bosnia & Herzegovina", "Botswana", "Brazil", "British Virgin Islands", "Brunei", "Bulgaria", "Burundi", "Cambodia", "Cameroon", "Cape Verde", "Chad", "Chile", "China", "Colombia", "Congo", "Costa Rica", "Cote D Ivoire", "Croatia", "Cuba", "Cyprus", "Czech Republic", "Denmark", "Djibouti", "Dominica", "Dominican Republic", "Ecuador", "Egypt", "El Salvador", "Equatorial Guinea", "Estonia", "Ethiopia", "Falkland Islands", "Faroe Islands","Finland", "France", "French Polynesia", "French West Indies", "Gabon", "Gambia", "Georgia", "Germany", "Gibraltar", "Greece", "Greenland", "Grenada", "Guatemala", "Guinea", "Haiti", "Honduras", "Hong Kong", "Hungary", "Iceland", "India", "Indonesia", "Iran", "Iraq", "Ireland", "Israel", "Italy", "Jamaica", "Japan", "Jersey", "Jordan", "Kazakhstan", "Kenya", "Kuwait",  "Latvia", "Lebanon", "Lesotho", "Liberia", "Libya", "Liechtenstein", "Lithuania", "Luxembourg", "Macau", "Macedonia", "Madagascar", "Malawi", "Malaysia", "Maldives", "Mali", "Malta", "Mauritania", "Mauritius", "Mexico", "Moldova", "Monaco", "Mongolia", "Montenegro", "Montserrat", "Morocco", "Mozambique", "Namibia", "Nepal", "Netherlands", "Netherlands Antilles", "New Caledonia", "New Zealand", "Nicaragua", "Norway", "Oman", "Pakistan", "Palestine", "Panama", "Papua New Guinea", "Paraguay", "Peru", "Philippines", "Poland", "Portugal", "Puerto Rico", "Qatar", "Reunion", "Romania", "Russia", "Rwanda", "Saint Pierre & Miquelon",  "San Marino", "Saudi Arabia", "Senegal", "Serbia", "Seychelles", "Sierra Leone", "Singapore", "Slovakia", "Slovenia", "South Africa", "South Korea", "Spain", "Sri Lanka", "Sudan", "Suriname", "Swaziland", "Sweden", "Switzerland", "Syria", "Taiwan", "Tajikistan", "Tanzania", "Thailand", "Togo", "Tonga", "Trinidad & Tobago", "Tunisia", "Turkey", "Turkmenistan", , "Ukraine", "United Arab Emirates", "United Kingdom", "Uruguay", "Uzbekistan", "Venezuela", "Vietnam", "Virgin Islands (US)", "Yemen"];
+
+function choice(array) {
+    return array[Math.floor(Math.random() * array.length)];
+}
+
+function randomNumber(min, max) {
+    return Math.random() * (max - min) + min;
+}
+
+
+function payinout() {
+    var nu = Math.floor(randomNumber(100, 3500));
+    var con = choice(country_list);
+    var mode = choice(['deposited', 'withdrew']);
+
+    spop({
+        template: "An Investor from " + con + " " + mode + " $" + nu + " ...",
+        
+        position: 'bottom-center',
+        style: 'success',
+        autoclose : 4000,
+    });
+
+}
+
+setInterval(payinout,7000);
+
+
+</script>
+
+</body>
+
+<!-- Mirrored from themes.potenzaglobalsolutions.com/html/Rextrades Associates/cookies.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 10 Dec 2022 19:00:23 GMT -->
+</html>
